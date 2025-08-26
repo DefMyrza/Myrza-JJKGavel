@@ -1,0 +1,20 @@
+{
+	"name": "JJKGavel",
+	"namespace": "Myrza",
+	"version_number": "1.2.0",
+	"description": " ",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["Myrza"],
+			"tags": [],
+      		"description_rich": "",
+      		"optional_dependencies": [],
+      		"load_before": [],
+      		"incompatibilities": [],
+      		"compatible_mod_loader_version": ["6.2.0"],
+      		"compatible_game_version": [""]
+		}
+	}
+}

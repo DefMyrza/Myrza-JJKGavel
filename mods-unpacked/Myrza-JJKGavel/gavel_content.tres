@@ -1,0 +1,22 @@
+[gd_resource type="Resource" load_steps=6 format=2]
+
+[ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/Myrza-JJKGavel/content/weapons/melee/gavel/3/gavel_3_data.tres" type="Resource" id=2]
+[ext_resource path="res://mods-unpacked/Myrza-JJKGavel/content/weapons/melee/gavel/4/gavel_4_data.tres" type="Resource" id=3]
+[ext_resource path="res://mods-unpacked/Myrza-JJKGavel/content/weapons/melee/gavel/1/gavel_data.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/Myrza-JJKGavel/content/weapons/melee/gavel/2/gavel_2_data.tres" type="Resource" id=5]
+
+[resource]
+script = ExtResource( 1 )
+characters = [  ]
+items = [  ]
+weapons = [ ExtResource( 4 ), ExtResource( 5 ), ExtResource( 2 ), ExtResource( 3 ) ]
+weapons_characters = [  ]
+sets = [  ]
+challenges = [  ]
+upgrades = [  ]
+consumables = [  ]
+elites = [  ]
+difficulties = [  ]
+debug_items = [  ]
+debug_weapons = [  ]
